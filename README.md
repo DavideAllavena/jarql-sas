@@ -1,6 +1,6 @@
 # jarql-server
 
-A version of [https://github.com/linked-solutions/jarql](Jarql) that exposes a webserver and convert your triples. Still highly EXPERIMENTAL 
+A version of [Jarql](https://github.com/linked-solutions/jarql) that exposes a webserver and convert your triples. Still highly EXPERIMENTAL 
 
 # Build
 Requires Java 9.
