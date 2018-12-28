@@ -1,6 +1,12 @@
 # jarql-server
 
-A version of Jarql that exposes a webserver and convert your triples. EXPERIMENTAL 
+A version of [https://github.com/linked-solutions/jarql](Jarql) that exposes a webserver and convert your triples. Still highly EXPERIMENTAL 
+
+# Build
+Requires Java 9.
+```
+mvn clean install
+```
 
 # HowTo
 
@@ -27,4 +33,8 @@ The `query` key contains the SPARQL construct as a string.
 * better readme
 * export parameters
 * make it multithread
-* increase preformances
+* increase performances
+
+# Credits
+
+https://github.com/linked-solutions/jarql
